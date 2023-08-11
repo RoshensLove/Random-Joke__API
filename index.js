@@ -12,3 +12,5 @@ let getJoke = () => {
 }
 btn.addEventListener("click",getJoke);
 getJoke();
+
+console.log("asdasd")
